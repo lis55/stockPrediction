@@ -1,3 +1,3 @@
 # stockPrediction
 
-This repository contains a tensorflow keras implementation of a LSTM model for the closing price stock prediction.
+This repository contains a tensorflow keras implementation of a LSTM model and moving average for the prediction of the closing price of tesla stocks.
